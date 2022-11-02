@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Velkommen til Emotional gaming Organisation
+
+
 <!--
 
 **Here are some ideas to get you started:**
