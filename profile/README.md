@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 Velkommen til Emotional gaming Organisation
+
 ![rage-quit](https://user-images.githubusercontent.com/116627077/199453451-82681a76-1faa-48c3-ab8b-13edf782c4e8.gif)
 
 
